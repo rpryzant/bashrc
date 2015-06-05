@@ -10,7 +10,7 @@ Reid's bashrc
 
 
 ## Features:
-*'cd' maps to 
+*`cd` maps to 
 
 
 ## How it looks:
