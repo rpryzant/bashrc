@@ -1,12 +1,17 @@
-Reid's Bash Profile
+Reid's bashrc
 ============
 
-This is my bash profile.
-
 ## Installation:
+  git clone https://github.com/rpryzant93/bash.git
+  mv bash/.bash* ~/
+  rm -r bash
 
-    mkdir ~/.bash_profile
-    git clone git://github.com/rpryzant93/bash-profile.git ~/.bash_profile
+
+
+
+## Features:
+*'cd' maps to 
+
 
 ## How it looks:
 ![terminal screenshot](http://i.imgur.com/OG7flnk.png)
