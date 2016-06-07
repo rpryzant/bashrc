@@ -1,9 +1,9 @@
 # EXPORTS ###################################
 export CFLAGS=-D_FORTIFY_SOURCE=0
-
+# enable command line colors
+export CLICOLOR=1
 # change ls colors
 export LSCOLORS=GxFxCxDxBxegedabagaced
-
 # user: location > prompt:
 export PS1="\[\e[1m\]\[\033[0;30;32m\]\u:\w\[\e[0m\]> "
 
