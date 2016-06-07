@@ -15,10 +15,6 @@ alias ls='ls -G'
 alias skim="(head -5; echo; tail -5) <"
 # Say something
 alias say="espeak"
-# connect to unix
-alias unix="ssh rap1@unix.williams.edu"
-# connect to cs.williams
-alias rath="ssh 16rap1@rath.cs.williams.edu"
 
 
 # FUNCTIONS ################################
