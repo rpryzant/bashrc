@@ -2,10 +2,11 @@ Reid's bashrc
 ============
 
 ## Installation:
-  git clone https://github.com/rpryzant93/bash.git
-  mv bash/.bash* ~/
-  rm -r bash
-
+```
+git clone https://github.com/rpryzant93/bash.git
+mv bash/.bash* ~/
+rm -r bash
+```
 
 
 
